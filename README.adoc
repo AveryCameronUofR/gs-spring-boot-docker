@@ -1,3 +1,7 @@
+# Explanation
+
+Repository used for CICD Test with Azure Pipelines in DevOps for Group Project in ENSE 475 Software Testing
+
 :spring_version: current
 :toc:
 :project_id: gs-spring-boot-docker
